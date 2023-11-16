@@ -250,11 +250,11 @@
     "auto_detect_interface": true,
     "final": "proxy",
     "geoip": {
-      "download_url": "https://ghproxy.com/github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.db",
+      "download_url": "https://static.ai00.xyz/html/static/geoip.db",
       "download_detour": "direct"
     },
     "geosite": {
-      "download_url": "https://ghproxy.com/github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.db",
+      "download_url": "https://static.ai00.xyz/html/static/geosite.db",
       "download_detour": "direct"
     },
     "rules": [
